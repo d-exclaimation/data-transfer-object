@@ -6,7 +6,7 @@
 //
 
 
-package schema.response
+package dto
 
 import spray.json.{DefaultJsonProtocol, DeserializationException, JsNull, JsValue, JsonFormat, NullOptions, RootJsonFormat}
 

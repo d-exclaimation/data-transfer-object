@@ -4,7 +4,7 @@
 //
 //  Created by d-exclaimation on 8:50 PM.
 //
-package json
+package dto
 
 /**
  * ### Data Transfer Object

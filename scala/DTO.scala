@@ -6,7 +6,7 @@
 //
 
 
-package schema.response
+package dto
 
 import spray.json.JsonFormat
 
